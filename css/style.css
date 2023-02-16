@@ -1,0 +1,23 @@
+body{ margin:0px; padding:0px; background:#C7CBCF;}
+div.main{ width:425px; height:550px; background:#FFF; margin-top:50px; background:url(img/back.png); border-radius:15px; overflow:hidden;}
+div.goti{ width:30px; height:30px; border:1px dashed #09F; display:inline-block; position:relative; border-radius:15px; overflow:hidden;}
+div.goti img{ width:30px; height:30px; cursor:pointer;}
+
+div#goti_1{ top:20px; left:0px;}
+div#goti_2{ top:20px; left:143px;}
+div#goti_3{ top:20px; left:288px;}
+
+div#goti_4{ top:108px; left:-40px;}
+div#goti_5{ top:108px; left:35px;}
+div#goti_6{ top:108px; left:110px;}
+
+div#goti_7{ top:260px; left:-37px;}
+
+div#goti_8{ top:408px; left:-180px;}
+div#goti_9{ top:408px; left:-109px;}
+div#goti_10{ top:408px; left:-36px;}
+
+div#goti_11{ top:500px; left:-360px;}
+div#goti_12{ top:465px; left:16px;}
+div#goti_13{ top:465px; left:165px;}
+
